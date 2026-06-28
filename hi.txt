@@ -1,0 +1,3 @@
+hi hello welcome!!!
+this is an example for learning git and github 
+yhis is the sample application of merging the brench into master by using the pull request
